@@ -4,6 +4,10 @@
 
 `cargo run <query> <path to file>`
 
+### To turn case insensitive search
+
+`CASE_INSENSITIVE=1 cargo run <query> <path to file>`
+
 ### Run tests:
 
 `cargo test`
